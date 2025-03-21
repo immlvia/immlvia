@@ -14,7 +14,7 @@
    
   - 🤖 Me interesso pela área de AI e Machine Learning.
     
-  - 🌱 Além disso, sou apainoxada por fotografia, música e pinturas.
+  - 🌱 Além disso, sou apainoxada por fotografia, música e todo tipo de arte.
 </p>
 
 <!-- GIF -->
