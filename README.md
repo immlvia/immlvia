@@ -1,10 +1,24 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello! I´m Lívia</h1></summary>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira&size=18&duration=5000&pause=100&color=F7F7F7FF&center=true&vCenter=true&width=435&lines=Welcome!+I´m+Lívia!👋 " />
+  </a>
 </div>
 
 <!-- Presentation -->
 <p>
-  - 🌱 I’m currently studying Computer Science at UEPB <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  
+  - 💻 Atualmente sou estudante de Ciéncia da Computação pela Universidade Estadual da Paraíba (UEPB).
+   
+  - 🤖 Me interesso pela área de AI e Machine Learning.
+    
+  - 🌱 Além disso, sou apainoxada por fotografia, música e pinturas.
+</p>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
 
