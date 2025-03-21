@@ -1,13 +1,15 @@
 <!--título-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira&size=18&duration=5000&pause=100&color=F7F7F7FF&center=true&vCenter=true&width=435&lines=Welcome!+I´m+Lívia!👋 " />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira&size=18&duration=5000&pause=100&color=F7F7F7FF&center=true&vCenter=true&width=435&lines=Welcome!👋 " />
   </a>
 </div>
 
 <!-- Presentation -->
 <p>
-  
+
+  - 🎧 Olá! Me chamo Lívia Albuquerque.
+   
   - 💻 Atualmente sou estudante de Ciéncia da Computação pela Universidade Estadual da Paraíba (UEPB).
    
   - 🤖 Me interesso pela área de AI e Machine Learning.
