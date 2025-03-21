@@ -8,7 +8,7 @@
 <!-- Presentation -->
 <p>
 
-  - 🎧 Olá! Me chamo Lívia Albuquerque.
+  - 👩🏽‍💻 Olá! Me chamo Lívia Albuquerque.
    
   - 💻 Atualmente sou estudante de Ciéncia da Computação pela Universidade Estadual da Paraíba (UEPB).
    
