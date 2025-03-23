@@ -1,7 +1,7 @@
 <!--título-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira&size=18&duration=5000&pause=100&color=F7F7F7FF&center=true&vCenter=true&width=435&lines=Welcome! 🌱 " />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira&size=18&duration=5000&pause=100&color=F7F7F7FF&center=true&vCenter=true&width=435&lines=Welcome!🌱 " />
   </a>
 </div>
 
