@@ -1,10 +1,8 @@
 <!--título-->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Bem-vindo(a)!" alt="Typing SVG" />
-  </a>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Bem-vindo(a)! 🌱</h1></summary>
 </div>
-
 
 <!-- Presentation -->
 <p>
