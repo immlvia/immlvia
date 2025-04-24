@@ -12,7 +12,7 @@
    
   - 💻 Atualmente sou estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
    
-  - 🤖 Aspirante pela área de Ciência de Dados. 
+  - 🤖 Aspirante pela área de Ciência de Dados e IA;
     
   - 📷 Além disso, sou apainoxada por fotografia, música e todo tipo de arte.
 </p>
