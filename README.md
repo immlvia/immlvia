@@ -9,11 +9,8 @@
 
   - 👩🏽‍💻 Olá! Me chamo Lívia Albuquerque;
    
-  - 💻 Atualmente sou estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
+  - 💻 Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
    
-  - 🤖 Entusiasta pela área de Dados & IA;
-    
-  - 📷 Além disso, sou apainoxada por fotografia e música.
 </p>
 <!-- GIF -->
 <p align="left">
