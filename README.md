@@ -1,28 +1,28 @@
 <!--título-->
+
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Bem-vindo(a)! 🌱</h1></summary>
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Bem vindo(a)!</h1></summary>
 </div>
 
 <!-- Presentation -->
-<p>
-
-  - 👩🏽‍💻 Olá! Me chamo Lívia Albuquerque;
-   
-  - 💻 Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
-   
-</p>
-<!-- GIF -->
+## 🌐 Sobre mim
+- 👋 Me chamo Lívia Albuquerque;
+- 💻 Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
+- ☕ Estudo sobre Cibersegurança, Forense Digital, Hacking, OSINT.
+  
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/d99a540f-eccf-4760-80f3-bdfd3f6bfbf7" alt="Imagem">
+</p>
 </p>
 
-## 👩🏽‍💻 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-  <div style="flex-basis: 48%;">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
 
+## 👩🏽‍💻 Skills & technologies
+  <div style="flex-basis: 48%;">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+    <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="Kali" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg">
+          
+  </div>
+  
 
