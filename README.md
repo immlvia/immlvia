@@ -1,11 +1,8 @@
-<!--título-->
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Bem vindo(a)!</h1></summary>
 </div>
 
-<!-- Presentation -->
 ## 🌐 Sobre mim
 - 👋 Me chamo Lívia Albuquerque;
 - 💻 Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
