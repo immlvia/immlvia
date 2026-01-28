@@ -1,7 +1,3 @@
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Bem vindo(a)!</h1></summary>
-</div>
 
 ## 🌐 Sobre mim
 - 👋 Me chamo Lívia Albuquerque;
