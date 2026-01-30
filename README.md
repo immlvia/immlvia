@@ -1,8 +1,8 @@
 
 ## 🌐 Sobre mim
-- 👋 Me chamo Lívia Albuquerque;
-- 💻 Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
-- ☕ Estudo sobre Cibersegurança, Forense Digital, Hacking, OSINT.
+- Me chamo Lívia Albuquerque;
+- Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
+- Estudo sobre Cibersegurança, Forense Digital, Hacking, OSINT.
   
 <p align="left">
   <img align="center" src="https://github.com/user-attachments/assets/d99a540f-eccf-4760-80f3-bdfd3f6bfbf7" alt="Imagem">
