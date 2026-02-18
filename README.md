@@ -3,11 +3,7 @@
 - Me chamo Lívia Albuquerque;
 - Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
 - Estudo sobre Cibersegurança, Redes e OSINT.
-  
-<p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/d99a540f-eccf-4760-80f3-bdfd3f6bfbf7" alt="Imagem">
-</p>
-</p>
+
 
 
 ## 👩🏽‍💻 Skills & technologies
