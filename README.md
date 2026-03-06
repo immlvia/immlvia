@@ -5,7 +5,7 @@ Graduanda em **Ciência da Computação** pela **Universidade Estadual da Paraí
 **Cibersegurança | Segurança Defensiva (Blue Team)**
 
 - 🌐 Análise de tráfego e monitoramento de redes
-- 🐍 Automação e análise de dados com Python
+- 🐍 Automação e lógica de programação com Python
 - 💻 Base sólida em programação com C
 ---
 
