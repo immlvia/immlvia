@@ -1,12 +1,12 @@
 
 # Olá, eu sou Lívia Albuquerque! 👋
 
-Graduanda de **Ciência da Computação** pela Universidade Estadual da Paraíba (UEPB) com foco em Cibersegurança.
+Graduanda em **Ciência da Computação** pela **Universidade Estadual da Paraíba (UEPB)**  
+**Cibersegurança | Segurança Defensiva (Blue Team)**
 
-- 🛡️ Estudando para Cibersegurança com foco em vulnerabilidades e defesa digital
-- 🌐 Análise de Redes com monitoramento, tráfego e defesa
-- 🐍 Automação e Lógica com scripts em Python e base sólida com C
-
+- 🌐 Análise de tráfego e monitoramento de redes
+- 🐍 Automação e análise de dados com Python
+- 💻 Base sólida em programação com C
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
