@@ -1,18 +1,23 @@
 
-## 🌐 Sobre mim
-- Me chamo Lívia Albuquerque;
-- Estudante de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB);
-- Estudo sobre Cibersegurança, Redes e OSINT.
+# Olá, eu sou Lívia Albuquerque! 👋
 
+Graduanda de **Ciência da Computação** pela Universidade Estadual da Paraíba (UEPB) com foco em Cibersegurança.
 
+- 🛡️ Estudando para Cibersegurança com foco em vulnerabilidades e defesa digital
+- 🌐 Análise de Redes com monitoramento, tráfego e defesa
+- 🐍 Automação e Lógica com scripts em Python e base sólida com C
 
-## 💻 Linguagens e ferramentas
-  <div >
-    <img align="center" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-    <img align="center" alt="C" height="32" width="32" src="https://github.com/user-attachments/assets/52693c81-eef9-411b-9337-b2be7ebfa919" />
-    <img align="center" alt="Html" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Kali" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg">
-    <img align="center" alt="Wireshark" height="32" width="32"src="https://github.com/user-attachments/assets/00957ef3-3cdf-4daa-8dad-f5f0bbe5c144" />
-  </div>
-  
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="Kali Linux"/>
+  <img src="https://github.com/user-attachments/assets/00957ef3-3cdf-4daa-8dad-f5f0bbe5c144" height="40" alt="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</div>
+
 
