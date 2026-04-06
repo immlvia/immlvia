@@ -1,10 +1,9 @@
 
 # Olá, eu sou Lívia Albuquerque! 👋
 
-Graduanda em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB)   
-Cibersegurança | Blue Team 🛡️
+Graduanda em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB) | CyberSecurity
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="Kali Linux"/>
